@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+img{
+    margin: 20px auto;
+    max-width: 200px auto;
+}
+body{
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(86, 86, 181);
+    color: beige;
+}
+label input{
+    text-align: end;
+   max-width: fit-content;
+   margin: 0 auto;
+    display: block;
+}
+ul  {
+    background-color: rgb(144, 167, 146);
+    text-decoration-line: none;
+    color: beige;
+}
